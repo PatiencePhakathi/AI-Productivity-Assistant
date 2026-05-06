@@ -1,52 +1,54 @@
-# 🧠 AI Prompts (Prompt Engineering)
+# 🧠 AI Prompt Engineering
 
-This file shows how the AI assistant is instructed to perform tasks using structured prompts.
+This file contains structured prompts used to power the AI Productivity Assistant.
 
 ---
 
-## 📧 1. Email Generator Prompt
+## 📧 Email Generator Prompt
 
-Act as a professional career assistant.
+Act as a professional workplace communication assistant.
 
-Write a professional job application email based on the input below.
+Generate a professional email based on the user input.
 
 Requirements:
-- Professional tone
-- Clear structure (introduction, skills, closing)
+- Formal and clear tone
 - 120–180 words
-- Mention relevant skills where applicable
+- Include greeting, body, and closing
+- Adjust tone based on context (job application, request, follow-up)
 
 User input:
-[Insert job role and details]
+[Insert details]
 
 ---
 
-## 📝 2. Meeting Summarizer Prompt
+## 📝 Meeting Summarizer Prompt
 
-Act as a meeting assistant.
+Act as a workplace assistant.
 
-Summarize the meeting notes below into:
+Summarize the text into:
 - Key points
 - Decisions made
 - Action items
+- Deadlines (if mentioned)
 
-Keep the output clear and structured.
+Keep it clear and structured.
 
-Meeting notes:
-[Insert notes]
+User input:
+[Insert meeting notes]
 
 ---
 
-## 📅 3. Task Planner Prompt
+## 📅 Task Planner Prompt
 
 Act as a productivity assistant.
 
-Create a structured daily schedule based on the tasks below.
+Create a structured daily schedule.
 
 Rules:
-- Prioritise important tasks first
-- Include realistic time blocks
-- Ensure balance between work and rest
+- Prioritize important tasks
+- Use realistic time blocks
+- Include breaks
+- Optimize productivity
 
-Tasks:
+User input:
 [Insert tasks]
