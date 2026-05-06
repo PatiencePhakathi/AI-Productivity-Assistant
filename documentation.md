@@ -1,25 +1,31 @@
-# Documentation
+# 📄 Documentation
 
-## Problem
-People waste time on repetitive tasks.
+##  Project Summary
+This project is an AI-powered productivity assistant designed to help automate workplace tasks such as emails, meeting summaries, and task planning.
 
-## Solution
-AI assistant that automates:
-- Emails
-- Summaries
-- Planning
+---
 
-## Tools Used
-- ChatGPT
+## How it works
+- User inputs a request (email, notes, or tasks)
+- AI processes the input using structured prompts
+- AI generates a useful output
+- User applies the result
 
-## Challenges
-- Getting accurate responses
-- Prompt design
+---
 
-## Solutions
-- Improved prompts
-- Tested multiple outputs
+##  Features
+- Email Generator
+- Meeting Summarizer
+- Task Planner
 
-## Ethical Considerations
-- AI may be biased
-- Users must verify outputs
+---
+
+## Limitations
+- AI outputs may not always be accurate
+- Requires user verification
+- Depends on quality of prompts
+
+---
+
+## Impact
+Helps improve productivity, save time, and support students and job seekers in daily tasks.
