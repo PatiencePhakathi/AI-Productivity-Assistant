@@ -1,24 +1,22 @@
-# 📊 Demo Examples (AI Outputs)
+# 📊 AI Productivity Assistant – Demo Examples
 
-This section shows real examples of what the AI assistant produces.
+This file shows real examples of how the AI assistant works in practice.
 
 ---
 
 ## 📧 Email Generator Example
 
-**Input:**  
-Apply for a Junior Software Developer internship.
+**User Input:**  
+I want to apply for a Junior Software Developer internship. I am a recent graduate with skills in Java, Spring Boot, MySQL, and Flutter.
 
-**Output:**  
+**AI Output:**  
 Dear Hiring Manager,
 
-I hope this message finds you well. I am writing to apply for the Junior Software Developer position.
+I hope you are well. I am writing to apply for the Junior Software Developer internship position.
 
-I am a recent Applications Development graduate with experience in Java, Spring Boot, MySQL, and Flutter through academic projects.
+I am a recent graduate in Applications Development with experience in Java, Spring Boot, MySQL, and Flutter through academic projects. I am passionate about software development and eager to contribute to a real-world team environment.
 
-I am eager to contribute to your team and grow my skills in a professional environment.
-
-Thank you for your time and consideration.
+I would appreciate the opportunity to further discuss my application.
 
 Kind regards,  
 Patience Phakathi
@@ -27,26 +25,26 @@ Patience Phakathi
 
 ## 📝 Meeting Summarizer Example
 
-**Input:**  
-Workshop on job readiness, CV writing, and interview preparation.
+**User Input:**  
+Workshop discussion about job searching, CV writing, and interview preparation.
 
-**Output:**
-- CVs must be tailored per job application  
-- LinkedIn profiles should be updated  
-- Practice interview questions regularly  
-- Apply to multiple jobs weekly  
+**AI Output:**
+- CV should be tailored for each job application  
+- LinkedIn profile must be updated  
+- Practice common interview questions  
+- Apply to at least 5 jobs weekly  
 
 ---
 
 ## 📅 Task Planner Example
 
-**Input:**  
+**User Input:**  
 Job applications, coding practice, gym, personal time
 
-**Output:**
-- 08:00 – 10:00 → Job applications  
-- 10:30 – 12:00 → Coding practice (Java/Flutter)  
+**AI Output:**
+- 08:00 – 10:00 → Apply for jobs  
+- 10:30 – 12:00 → Coding practice (Java / Flutter)  
 - 13:00 – 14:00 → Break  
-- 14:00 – 16:00 → GitHub project work  
+- 14:00 – 16:00 → GitHub/project work  
 - 17:00 – 18:00 → Gym  
 - Evening → Rest / family time  
