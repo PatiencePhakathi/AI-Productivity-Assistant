@@ -23,8 +23,14 @@ This assistant uses AI tools like ChatGPT to:
 - Task Planner
 
 ## ⚠️ Responsible AI
+
 - Outputs must be reviewed by users
 - AI may produce incorrect or biased responses
+
+## Responsible AI Use
+- AI outputs may not always be accurate
+- Users should review content before use
+- Avoid sharing sensitive information
 
 ## 📊 Outcome
 Improves productivity by saving time and automating repetitive tasks.
