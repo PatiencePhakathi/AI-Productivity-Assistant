@@ -67,38 +67,68 @@ Use a professional tone. Include a greeting, main message, and closing.
 - Markdown (documentation)  
 
 ---
-
 ## 📊 Demo Examples
 
 ### 📧 Email Generator
-**Input:** Request for leave  
+**Input:**  
+Write a professional email to apply for an internship as a Software Developer.
 
 **Output:**  
-Dear Manager,  
-I hope this message finds you well. I would like to request leave for personal reasons from [date]. Please let me know if any arrangements are required during my absence.  
+Dear Hiring Manager,
+
+I hope you are well. I am writing to express my interest in the Software Developer Internship position at your company.
+
+I recently completed my studies in Applications Development and have gained experience in Java, Spring Boot, MySQL, and Flutter through academic projects. I am passionate about building practical solutions and continuously improving my technical skills.
+
+I would appreciate the opportunity to contribute to your team while further developing my skills in a real-world environment.
+
+Please find my CV attached for your consideration. I look forward to hearing from you.
+
 Kind regards,  
-[Your Name]
+Patience Phakathi  
 
 ---
 
 ### 📝 Meeting Summarizer
-**Input:** Long meeting notes  
+**Input:**  
+Career workshop discussion about CV improvement, job applications, and interview preparation.
 
 **Output:**  
-- Key Points: Project deadlines discussed  
-- Decisions: Team agreed on new timeline  
-- Action Items: Assign tasks to team members  
+- **Key Points:** Importance of tailoring your CV for each job application  
+- **Decisions:** Students should update their CVs and LinkedIn profiles  
+- **Action Items:**  
+  - Apply to at least 5 jobs per week  
+  - Practice interview questions  
+  - Improve GitHub portfolio  
 
 ---
 
 ### 📅 Task Planner
-**Input:** Study, meeting, assignment, gym  
+**Input:**  
+Job applications, gym, coding practice, family time
 
 **Output:**  
-- 08:00 – 10:00: Study  
-- 10:30 – 11:30: Meeting  
-- 12:00 – 14:00: Assignment  
-- 17:00 – 18:00: Gym  
+- 08:00 – 10:00: Apply for jobs  
+- 10:30 – 12:00: Coding practice (Java / Flutter)  
+- 12:00 – 13:00: Break / Lunch  
+- 14:00 – 15:00: Work on GitHub project  
+- 17:00 – 18:00: Gym / Walk  
+- Evening: Family time  
+
+---
+
+## 💬 Chatbot Interaction Example
+
+**User:** Help me plan my day as a job seeker who is also improving coding skills  
+
+**AI:**  
+- Morning: Apply for jobs (2–3 applications)  
+- Midday: Practice coding (focus on one topic)  
+- Afternoon: Update GitHub or portfolio  
+- Evening: Exercise or rest  
+
+
+---
 
 ---
 
