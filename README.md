@@ -4,7 +4,7 @@
 ## 📌 What is this project?
 This project shows how Artificial Intelligence can help automate simple daily tasks like writing emails, summarizing information, and planning tasks.
 
-It is designed for students and job seekers to improve productivity using AI tools like ChatGPT or Gemini.
+It is designed for students, job seekers and professionals to improve productivity using AI tools like ChatGPT or Gemini.
 
 
 
@@ -52,9 +52,8 @@ User → Prompt → AI Processing → Generated Output
 - Do not input sensitive information
 
 
-
-## 🌍 Real-life use
-This project helps students and job seekers:
+## 🌍 Real-life Use
+This project helps students, job seekers, and professionals:
 - Save time
 - Improve writing skills
 - Stay organised
