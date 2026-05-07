@@ -36,6 +36,15 @@ This AI assistant uses structured prompts to help users:
 3. AI generates useful output
 4. User uses the result
 
+## 🔄 Workflow Demonstration
+
+1. User enters a request or task
+2. AI processes the request using structured prompts
+3. AI generates a response
+4. User reviews and applies the output
+
+Example Workflow:
+User → Prompt → AI Processing → Generated Output
 
 ## ⚠️ Responsible AI
 - AI may make mistakes
